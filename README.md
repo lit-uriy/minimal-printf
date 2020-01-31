@@ -1,3 +1,5 @@
+**Mbed minimal printf has moved to https://github.com/ARMmbed/mbed-os/blob/master/platform/source/minimal-printf/README.md**
+
 # Minimal printf and snprintf
 
 Library supports both printf and snprintf in 1252 bytes of flash.
